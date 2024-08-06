@@ -1,4 +1,4 @@
-# Optimizing Atomic Layer Deposition using a Hybrid of Machine Learning Methods
+# SURE-Summer2023: Optimizing Atomic Layer Deposition using a Hybrid of Machine Learning Methods
 
 ## Overview
 This repository contains code and resources for the project "Optimizing Atomic Layer Deposition using a Hybrid of Machine Learning Methods" by Anthony DiBenedetto, Angel Yanguas-Gil, Jeffrey W. Elam, and Osama "Sam" Abuomar. The study uses machine learning to assess the quality of Atomic Layer Deposition (ALD) processes, focusing on predicting the standard deviations of film thickness as an indicator of quality.
